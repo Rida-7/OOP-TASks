@@ -1,0 +1,14 @@
+D:\2nd SEMESTER\OOP LAB\businessProject1\businessProject1\obj\Debug\businessProject1.csproj.AssemblyReference.cache
+D:\2nd SEMESTER\OOP LAB\businessProject1\businessProject1\obj\Debug\businessProject1.csproj.CoreCompileInputs.cache
+D:\2nd SEMESTER\OOP LAB\businessProject1\businessProject1\bin\Debug\businessProject1.exe.config
+D:\2nd SEMESTER\OOP LAB\businessProject1\businessProject1\bin\Debug\businessProject1.exe
+D:\2nd SEMESTER\OOP LAB\businessProject1\businessProject1\bin\Debug\businessProject1.pdb
+D:\2nd SEMESTER\OOP LAB\businessProject1\businessProject1\obj\Debug\businessProject1.exe
+D:\2nd SEMESTER\OOP LAB\businessProject1\businessProject1\obj\Debug\businessProject1.pdb
+D:\2nd SEMESTER\OOP LAB\OOP(PD)\businessProject1\businessProject1\bin\Debug\businessProject1.exe.config
+D:\2nd SEMESTER\OOP LAB\OOP(PD)\businessProject1\businessProject1\bin\Debug\businessProject1.exe
+D:\2nd SEMESTER\OOP LAB\OOP(PD)\businessProject1\businessProject1\bin\Debug\businessProject1.pdb
+D:\2nd SEMESTER\OOP LAB\OOP(PD)\businessProject1\businessProject1\obj\Debug\businessProject1.csproj.AssemblyReference.cache
+D:\2nd SEMESTER\OOP LAB\OOP(PD)\businessProject1\businessProject1\obj\Debug\businessProject1.csproj.CoreCompileInputs.cache
+D:\2nd SEMESTER\OOP LAB\OOP(PD)\businessProject1\businessProject1\obj\Debug\businessProject1.exe
+D:\2nd SEMESTER\OOP LAB\OOP(PD)\businessProject1\businessProject1\obj\Debug\businessProject1.pdb

@@ -1,0 +1,3 @@
+rida,123,admin
+
+hassan,123,customer
